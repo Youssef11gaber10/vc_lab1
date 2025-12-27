@@ -1,5 +1,4 @@
-# Task Manager App # FEATURE UPDATE IN SAME LINE MAK CONFLICT
-
+# Task Manager App # MAIN UPDATE to make conflict
 A simple Task Manager application to help users:
 - Add tasks
 - Update tasks
